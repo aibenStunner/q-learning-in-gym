@@ -42,7 +42,7 @@ class QLearningAgent:
 
     def get_action(self, state: int, action_space: gym.Space) -> int:
         """
-        Returns the best action with probability (1 - epsilon)
+        Returns the best action (a) with probability (1 - epsilon)
         otherwise a random action with probablility epsilon to ensure exploration
         """
         explore_eploit_tradeoff = self.rng.uniform(0, 1)

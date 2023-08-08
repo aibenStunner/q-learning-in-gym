@@ -8,7 +8,6 @@ class Params(NamedTuple):
     initial_epsilon: float  # initial exploration probability
     epsilon_decay: float # rate at which exploration should be reduced over time
     final_epsilon: float # final exploration probability
-    map_size: int  # number of tiles of one side of the squared environment
     seed: int  # define a seed so that we get reproducible results
     is_slippery: bool  # if true the player will move in intended direction with probability of 1/3 else will move in either perpendicular direction with equal probability of 1/3 in both directions
     n_runs: int  # number of runs
