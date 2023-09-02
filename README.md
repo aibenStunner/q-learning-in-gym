@@ -12,9 +12,9 @@ Frozen lake involves crossing a frozen lake from start to goal without falling i
 
 ### Results
 
-| Untrained Agent                                                                                                                                    | Trained Agent                                                                                                                                   |
-| -------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![fronzenlake-untrained](https://github-production-user-asset-6210df.s3.amazonaws.com/42221332/265231908-58e2dbb8-4e6d-4761-ab42-04c99c06784e.gif) | ![frozenlake-trained](https://github-production-user-asset-6210df.s3.amazonaws.com/42221332/265231877-7f941e5e-090d-4664-98d3-605016b25543.gif) |
+| Untrained Agent                                                  | Trained Agent                                               |
+| ---------------------------------------------------------------- | ----------------------------------------------------------- |
+| ![fronzenlake-untrained](fig/frozenlake-v1//untrained-agent.gif) | ![frozenlake-trained](fig/frozenlake-v1//trained-agent.gif) |
 
 # Acknowledgements 🫡
 
