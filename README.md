@@ -8,13 +8,19 @@ Frozen lake involves crossing a frozen lake from start to goal without falling i
 
 ### Training plots
 
-![training-plots](fig/frozenlake-v1/frozenlake-v1_steps_and_rewards.png) Training Q-Learning agent on the FrozenLake-v1 environment.
+![training-plots](experiments/frozenlake-v1/frozenlake-v1_steps_and_rewards.png) Training Q-Learning agent on the FrozenLake-v1 environment.
 
 ### Results
 
-| Untrained Agent                                                  | Trained Agent                                               |
-| ---------------------------------------------------------------- | ----------------------------------------------------------- |
-| ![fronzenlake-untrained](fig/frozenlake-v1//untrained-agent.gif) | ![frozenlake-trained](fig/frozenlake-v1//trained-agent.gif) |
+| Untrained Agent                                                          | Trained Agent                                                       |
+| ------------------------------------------------------------------------ | ------------------------------------------------------------------- |
+| ![fronzenlake-untrained](experiments/frozenlake-v1//untrained-agent.gif) | ![frozenlake-trained](experiments/frozenlake-v1//trained-agent.gif) |
+
+## 2. Space Invaders 👾
+
+### Results
+
+![spaceinvaders-trained](experiments/SpaceInvadersNoFrameskip-v4/trained.gif)
 
 # Acknowledgements 🫡
 
